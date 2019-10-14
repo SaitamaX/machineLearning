@@ -47,4 +47,4 @@ public:
         return (max(Lmax_1, Lmax_2) + min(Rmin_1, Rmin_2))/2.0;
     }
 };
-//test github
+
